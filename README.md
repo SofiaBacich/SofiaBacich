@@ -1,29 +1,8 @@
 <h1 align="center">Hi there 👋 I'm Sofía Bacich! </h1>
 
-<div align="center">
-<a href="https://ossinsight.io">
-  <img src="/web/static/img/screenshots/homepage.gif" height=360
-</a>
-</div>
 
-<h4 align="center">
-  <b><a href="https://ossinsight.io/explore/">Data Explorer</a></b>
-  •
-  <b><a href="https://ossinsight.io/collections/open-source-database">Repo Rankings</a></b>
-  •
-  <b><a href="https://ossinsight.io/analyze/Ovilia">Developer Analytics</a></b>
-  •
-  <a href="https://ossinsight.io/analyze/pingcap/tidb">Repo Analytics</a>
-  •
-  <a href="https://ossinsight.io/collections/open-source-database">Collections</a>
-  •
-  <a href="https://ossinsight.io/docs/workshop">Workshop</a>
-  •
-  <a href="https://ossinsight.io/blog">Blog</a>
-  •
-  <a href="https://ossinsight.io/docs">API</a>
-  •
-  <a href="https://twitter.com/OSSInsight">Twitter</a>
+<h3 align="center">
+  Software Engineering Advanced Student
 </h3>
 
 ## Introduction
@@ -38,14 +17,14 @@ My main objective is to achieve more work-related, technical and interdisciplina
 English - Upper Intermediate
 Spanish - Native
 
-##Tools
-C++
-Python
-Java
-PosgreSQL
-MySQL
-MongoDB
-Arduino/C
+## Tools
+  <h4>• C++ </h4>
+  <h4>• Python </h4>
+  <h4>• Java </h4>
+  <h4>• MySQL </h4>
+  <h4>• PosgreSQL </h4>
+  <h4>• MongoDB </h4>
+  <h4>• Arduino/C </h4>
 
 ## Contact me
 
