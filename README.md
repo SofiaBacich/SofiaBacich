@@ -14,8 +14,8 @@ I’m a Software Engineering advanced student from UNDAV. I’m very passionate 
 My main objective is to achieve more work-related, technical and interdisciplinary experience, skills and knowledges.
 
 ## Languages
-English - Upper Intermediate
-Spanish - Native
+<h4> English - Upper Intermediate </h4>
+<h4> Spanish - Native </h4>
 
 ## Tools
   <h4>• C++ </h4>
