@@ -29,6 +29,9 @@ My main objective is to achieve more work-related, technical and interdisciplina
 ## Contact me
 
 <a href="https://www.linkedin.com/in/sofiabacich/" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  
+<a href="https://www.linkedin.com/in/sofiabacich/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=0077b5&style=for-the-badge&logo=linkedin&logoColor=white%20alt=linkedin%20style=%22margin-bottom:%205px%22 />
 </a>
 
