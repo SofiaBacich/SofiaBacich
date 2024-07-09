@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Sofía Bacich! </h1>
 
-
 <h3 align="center">
   Software Engineering Advanced Student
 </h3>
