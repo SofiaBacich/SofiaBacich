@@ -4,6 +4,8 @@
   Software Engineering Advanced Student
 </h3>
 
+<img align="center" src="post.png">
+
 ## Introduction
 
 I’m a Software Engineering advanced student from UNDAV. I’m very passionate about the career and the fields of computer science, informatic, programming, logic, mathematics, etc. Therefore, I’m looking for new oportunities that will allow me to continue growing as a professional in these areas. 
