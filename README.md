@@ -7,7 +7,7 @@ I’m a Software Engineering advanced student from UNDAV. I’m very passionate 
 
 ## Objectives
 
-My main objective is to achieve more work-related, technical and interdisciplinary experience, skills and knowledges.
+My main objective is to gain more work-related technical and interdisciplinary experience, skills and knowledge, especially on Software Development.
 
 ## Languages
 <p> English - Upper Intermediate </p>
