@@ -3,7 +3,7 @@
 
 ## Introduction
 
-I’m a Software Engineering advanced student from UNDAV. I’m very passionate about the career and the fields of computer science, informatic, programming, logic, mathematics, etc. Therefore, I’m looking for new oportunities that will allow me to continue growing as a professional in these areas. 
+I’m an advanced Software Engineering student from UNDAV. I’m very passionate about the career and the fields of computer science, informatics, programming, logic, mathematics, etc. Therefore, I’m looking for new opportunities that will allow me to continue growing as a professional in these areas. 
 
 ## Objectives
 
@@ -17,10 +17,11 @@ My main objective is to gain more work-related technical and interdisciplinary e
   <h4>• C++ </h4>
   <h4>• Python </h4>
   <h4>• Java </h4>
+  <h4>• Arduino/C </h4>
   <h4>• MySQL </h4>
   <h4>• PosgreSQL </h4>
   <h4>• MongoDB </h4>
-  <h4>• Arduino/C </h4>
+  <h4>• Linux </h4>
 
 ## Contact me
   
