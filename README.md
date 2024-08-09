@@ -26,9 +26,11 @@ My main objective is to gain more work-related technical and interdisciplinary e
 ## Contact me
   
 <a href="https://www.linkedin.com/in/sofiabacich/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=0077b5&style=for-the-badge&logo=linkedin&logoColor=white%20alt=linkedin%20style=%22margin-bottom:%205px%22 />
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=0077b5&style=for-the-badge&logo=linkedin&logoColor=white%20alt=linkedin%20style=%22margin-bottom:%205px%22> 
+</a>
 
 <a href="mailto:sbacich4366@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=FFEFEE&style=for-the-badge&logo=gmail&logoColor=white%20alt=linkedin%20style=%22margin-bottom:%205px%22 />
+<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=FFEFEE&style=for-the-badge&logo=gmail&logoColor=white%20alt=linkedin%20style=%22margin-bottom:%205px%22>
+</a>
 
 
